@@ -55,9 +55,5 @@ This Python script is a DNS spoofing tool that intercepts DNS requests and modif
 
 
 
-## License
 
-This project is licensed under the MIT License.
-
----
 
