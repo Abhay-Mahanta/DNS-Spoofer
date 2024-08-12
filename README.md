@@ -56,9 +56,7 @@ This Python script is a DNS spoofing tool that intercepts DNS requests and modif
 
 This tool should only be used in a controlled environment or on networks where you have explicit permission to perform testing. Unauthorized use is illegal and can result in severe penalties.
 
-## Disclaimer
 
-This project is for educational purposes only. The author is not responsible for any misuse of this tool.
 
 ## License
 
