@@ -47,7 +47,7 @@ This Python script is a DNS spoofing tool that intercepts DNS requests and modif
 
 2. Run the script with root privileges:
    ```bash
-   sudo python3 dns_spoof.py
+   sudo python3 dns_spoofer.py
    ```
 
 3. When a DNS request for `www.bing.com` is made, the tool will spoof the response, redirecting the target to the IP address `192.168.92.133`.
