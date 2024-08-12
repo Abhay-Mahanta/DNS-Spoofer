@@ -52,9 +52,6 @@ This Python script is a DNS spoofing tool that intercepts DNS requests and modif
 
 3. When a DNS request for `www.bing.com` is made, the tool will spoof the response, redirecting the target to the IP address `192.168.92.133`.
 
-## Warning
-
-This tool should only be used in a controlled environment or on networks where you have explicit permission to perform testing. Unauthorized use is illegal and can result in severe penalties.
 
 
 
